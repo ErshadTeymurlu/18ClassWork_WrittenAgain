@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\18MarchTaskClassroom\bin\Debug\18MarchTaskClassroom.exe.config
+C:\Users\HP\source\repos\18MarchTaskClassroom\bin\Debug\18MarchTaskClassroom.exe
+C:\Users\HP\source\repos\18MarchTaskClassroom\bin\Debug\18MarchTaskClassroom.pdb
+C:\Users\HP\source\repos\18MarchTaskClassroom\obj\Debug\18MarchTaskClassroom.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\18MarchTaskClassroom\obj\Debug\18MarchTaskClassroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\18MarchTaskClassroom\obj\Debug\18MarchTaskClassroom.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\18MarchTaskClassroom\obj\Debug\18MarchTaskClassroom.exe
+C:\Users\HP\source\repos\18MarchTaskClassroom\obj\Debug\18MarchTaskClassroom.pdb
